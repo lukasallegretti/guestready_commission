@@ -15,7 +15,7 @@
 
 ```
 .
-├── test (test scrip)
+├── test (test script)
 │   ...
 ├── commission.py (main function)
 |
